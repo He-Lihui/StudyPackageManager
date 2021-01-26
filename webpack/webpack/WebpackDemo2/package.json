@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "build": "webpack"
+  },
+  "name": "webpackDemo2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "html-loader": "^1.3.2",
+    "marked": "^1.2.7",
+    "webpack": "4.40.2",
+    "webpack-cli": "^4.4.0"
+  }
+}
